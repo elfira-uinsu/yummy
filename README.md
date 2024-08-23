@@ -1,2 +1,2 @@
 # yummy
-Profil Perusahaan Berbasis Web
+Profil Perusahaan Makanan Berbasis Web
